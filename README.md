@@ -27,8 +27,8 @@ A full-stack Task Tracker web application that allows multiple users to sign up,
 ### Backend
 cd backend npm install npm run dev
 
-![ChatGPT Image Apr 30, 2025, 11_05_53 AM](https://github.com/user-attachments/assets/a82e83cd-bca5-43bc-903a-091c09d619de)
-![Uploading ChatGPT Image Apr 30, 2025, 11_08_00 AM.png…]()
+![login](https://github.com/user-attachments/assets/fffec07b-80c7-4510-b804-d58a6f4ee70d)
+![task](https://github.com/user-attachments/assets/bfffe8be-3df3-470a-a765-5ce8bd054b59)
 
 
 Create `.env`:
