@@ -1,7 +1,27 @@
 # Task-tracker-Application
 ## Technologies Used
 - React, Express, MongoDB, JWT
+# 🧩 Task Tracker Application
 
+A full-stack Task Tracker web application that allows multiple users to sign up, log in, manage up to 4 projects each, and track tasks under those projects. This project is built using **ReactJS**, **ExpressJS**, **MongoDB**, and **JWT** for authentication.
+
+---
+
+## 🌐 Live Demo
+
+> 🚀 _You can host this project on Render, Vercel, or Netlify. Add your live link here._
+
+---
+
+## ⚙️ Features
+
+- ✅ User Signup and Login (JWT Authentication)
+- 📁 Project Management (limit: 4 per user)
+- ✅ Task CRUD (Create, Read, Update, Delete)
+- 📊 Track task status: `Pending`, `In Progress`, `Completed`
+- 📅 View creation and completion dates
+- 🔒 Secure API with JWT and password hashing
+- 🧩 Clean and modular codebase
 ## Setup
 
 ### Backend
