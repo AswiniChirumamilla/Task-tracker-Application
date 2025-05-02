@@ -3,7 +3,6 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
 const router = express.Router();
-
 router.post('/signup', async (req, res) => {
   const { name, email, password, country } = req.body;
   const hashedPassword = await bcrypt.hash(password, 10);
