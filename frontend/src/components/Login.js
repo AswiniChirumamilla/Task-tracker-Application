@@ -7,7 +7,6 @@ export default function Login() {
     const res = await API.post('/auth/login', form);
     localStorage.setItem('token', res.data.token);
   };
-
   return (
     <div>
       <input onChange={e => setForm({...form, email: e.target.value})} />
